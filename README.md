@@ -9,3 +9,6 @@ Second step: ensemble learning with RandomForest, DecisionTree and XGB regressor
 Third step: a L1-similarity-based ranking algorithm (say, using the 6 most similar properties to the inputted one) and conducted a tricky regression on the parameters of these properties generating rather good results using a very "cheap" regressor. 
 
 Final step: adding NLP - taking into account the text descriptions of the properties. In fact the algorithm accuracy improvement gain is so small that seems that the descriptions are giving not so important information. And this was the main question of the project - is it possible to improve the appraisal quality using additional data from the descriptions of the properties IN AN AUTOMATED WAY (i.e. different NLP algorithms).
+
+
+*** Files containing the data are not for sharing.
